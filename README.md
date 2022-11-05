@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on data collection for telugu memes for classification 
 - 📫 How to reach me use [linkedin](https://www.linkedin.com/in/lohith-n-9ba565221/) 
 - 😊 happy coding 
+- badges 
+[![@lohith's Holopin board](https://holopin.me/lohith)](https://holopin.io/@lohith)
 <!---
 Lohith-profile/Lohith-profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
